@@ -2,7 +2,7 @@
 
 ### JavaScript Developer
 
-Flexible result-oriented JavaScript developer with 3 years of experience. I have over 2 years of experience working with react/node. I love building web apps, websites, and APIs in a way that makes the internet accessible for everyone.
+I am a Flexible result-oriented JavaScript developer with 3 years of experience. I have over 2 years of experience working with react/node, giving IT firms solutions that help their business. I love building web apps, websites, and APIs. I love using my skills in a way that makes the internet accessible for everyone.
 
 <p>
 <a href="https://www.linkedin.com/in/al-amin-yusuf-2a9b1518b/"><img height="26" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
