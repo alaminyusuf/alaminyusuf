@@ -2,7 +2,7 @@
 
 ### JavaScript Developer
 
-I am a Flexible result-oriented JavaScript developer with 3 years of experience. I have over 2 years of experience working with react/node, giving IT firms solutions that help their business. I love building web apps, websites, and APIs. I love using my skills in a way that makes the internet accessible for everyone.
+Result-oriented JavaScript Developer dedicated to providing IT firms with high-impact solutions via React and Node.js. I specialize in transforming business requirements into accessible, performant web applications and secure RESTful APIs. By prioritizing clean code architecture and inclusive design, I help companies build digital products that are not only functional but scalable and accessible to all users.
 
 <p>
 <a href="https://www.linkedin.com/in/al-amin-yusuf-2a9b1518b/"><img height="26" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
