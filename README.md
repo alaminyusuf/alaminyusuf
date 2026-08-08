@@ -28,25 +28,37 @@ If you'd like to work together or see my projects, check the sections below or v
 
 ## Selected Projects
 
-> Add your real project entries below. Replace the placeholders with project names, short descriptions, tech stack, links to live demos, and links to the repository.
+Here are some projects from my GitHub — click the repo links to see source and README for usage and deployment notes.
 
-### Project One — Project Name
-- Description: Short one-liner about the problem it solves and who it's for.
-- Tech: React, Node.js, Express, PostgreSQL, Docker
-- Demo: https://example.com (replace)
-- Repo: https://github.com/alaminyusuf/example-project (replace)
+### Personal Blog — personal-blog
+- Description: The source code for my personal blog/site built using TypeScript, Next.js, Tailwind and GraphCMS. Contains blog pages, CMS integration and site config.
+- Tech: Next.js, TypeScript, Tailwind CSS, GraphCMS
+- Repo: https://github.com/alaminyusuf/personal-blog
 
-### Project Two — Project Name
-- Description: Short one-liner.
-- Tech: Next.js, GraphQL, MongoDB
-- Demo: https://example.com
-- Repo: https://github.com/alaminyusuf/example-project-2
+### Ticket App — ticket-app
+- Description: A Next.js application scaffolded with create-next-app. Features API routes and example pages (see repo README for local dev instructions).
+- Tech: Next.js, TypeScript
+- Repo: https://github.com/alaminyusuf/ticket-app
 
-### Project Three — Project Name
-- Description: Short one-liner.
-- Tech: Node.js, Serverless, AWS
-- Demo/Notes: CI/CD and infra details
-- Repo: https://github.com/alaminyusuf/example-project-3
+### Modern Portfolio — Mordern-portfolio
+- Description: A portfolio template / resource used for learning and quick prototypes (based on a Traversy Media starter).
+- Tech: HTML, SCSS
+- Repo: https://github.com/alaminyusuf/Mordern-portfolio
+
+### GraphQL API — graphql-api
+- Description: An Express/Node GraphQL API with example client/server scripts. Includes instructions to run client and server via yarn scripts.
+- Tech: Node.js, TypeScript, GraphQL
+- Repo: https://github.com/alaminyusuf/graphql-api
+
+### Trends API — trends-api
+- Description: API project written in TypeScript for exploring trends data (see repo for routes and usage).
+- Tech: TypeScript, Node.js
+- Repo: https://github.com/alaminyusuf/trends-api
+
+### Portfolio (static scaffold) — portfolio
+- Description: This repo contains a starter portfolio site (Gatsby starter present). I've added a simple static scaffold (index.html) to help quickly deploy a minimal portfolio.
+- Tech: Gatsby / static HTML
+- Repo: https://github.com/alaminyusuf/portfolio
 
 ---
 
@@ -92,9 +104,10 @@ I welcome contributions—open an issue or a pull request on any project. If you
 
 ---
 
-If you'd like, I can:
-- Populate the Projects section using repositories in this account (I can scan your repo list and add actual entries),
-- Create a simple portfolio website (Next.js) and deploy it to Vercel, or
-- Generate a PDF resume from the bio and experience you provide.
+## Next steps I can take for you
 
-Tell me which option you want and provide any project links, bio details, or your preferred contact email and I'll continue.
+- Populate project descriptions with screenshots, live demo links, and short case studies (I can pull READMEs and recent commits to summarize).
+- Create a simple portfolio website (Next.js or static) and prepare it for deployment to Vercel / Netlify.
+- Draft a resume (Markdown/PDF) using the About/Skills above.
+
+If you'd like me to proceed with any of those, tell me which one(s) and provide your preferred contact email.
