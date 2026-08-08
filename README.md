@@ -47,26 +47,6 @@ Here are three of my top pinned repositories — click the repo titles to view s
 
 ---
 
-## How to run my projects locally
-
-1. Clone the repository
-
-   git clone https://github.com/alaminyusuf/<project-repo>.git
-2. Install dependencies
-
-   cd <project-repo>
-   npm install
-3. Copy or create .env with required environment variables (see README of each project)
-4. Run in development mode
-
-   npm run dev
-
-5. Run tests
-
-   npm test
-
----
-
 ## Contributions & Work
 
 I welcome contributions—open an issue or a pull request on any project. If you'd like to hire me or collaborate, please reach out via GitHub or email (add your email below).
@@ -76,23 +56,7 @@ I welcome contributions—open an issue or a pull request on any project. If you
 ## Contact
 
 - GitHub: https://github.com/alaminyusuf
-- Email: add-your-email@example.com  <!-- Replace with your preferred contact email -->
+- Email: alaminyusuf131@gmail.com  <!-- Replace with your preferred contact email -->
 
 ---
-
-## What I can help with
-
-- Building single-page apps and multi-page web apps with React/Next
-- Designing and building RESTful and GraphQL APIs with Node.js
-- Performance and accessibility audits and fixes
-- CI/CD pipelines and Docker-based deployments
-
----
-
-## Next steps I can take for you
-
-- Populate project descriptions with screenshots, live demo links, and short case studies (I can pull READMEs and recent commits to summarize).
-- Create a simple portfolio website (Next.js or static) and prepare it for deployment to Vercel / Netlify.
-- Draft a resume (Markdown/PDF) using the About/Skills above.
-
-If you'd like me to proceed with any of those, tell me which one(s) and provide your preferred contact email.
+ provide your preferred contact email.
