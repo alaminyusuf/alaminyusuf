@@ -26,39 +26,24 @@ If you'd like to work together or see my projects, check the sections below or v
 
 ---
 
-## Selected Projects
+## Selected Projects (Pinned highlights)
 
-Here are some projects from my GitHub — click the repo links to see source and README for usage and deployment notes.
+Here are three of my top pinned repositories — click the repo titles to view source, READMEs, and demo instructions.
 
-### Personal Blog — personal-blog
-- Description: The source code for my personal blog/site built using TypeScript, Next.js, Tailwind and GraphCMS. Contains blog pages, CMS integration and site config.
-- Tech: Next.js, TypeScript, Tailwind CSS, GraphCMS
-- Repo: https://github.com/alaminyusuf/personal-blog
+### Vlogger — https://github.com/alaminyusuf/vlogger
+- Description: A video/content publishing platform example built with a focus on scalable frontend and backend architecture. It demonstrates TypeScript usage, feature-driven components, and API integration for media workflows.
+- Tech: TypeScript, React, Node.js, REST APIs
+- Repo: https://github.com/alaminyusuf/vlogger
 
-### Ticket App — ticket-app
-- Description: A Next.js application scaffolded with create-next-app. Features API routes and example pages (see repo README for local dev instructions).
-- Tech: Next.js, TypeScript
-- Repo: https://github.com/alaminyusuf/ticket-app
+### Hydro Manager — https://github.com/alaminyusuf/hydro-manager
+- Description: An application for managing hydroponics/farm data and automation. Includes dashboards, data collection endpoints, and integrations for device telemetry and control.
+- Tech: JavaScript, Node.js, Express, MongoDB
+- Repo: https://github.com/alaminyusuf/hydro-manager
 
-### Modern Portfolio — Mordern-portfolio
-- Description: A portfolio template / resource used for learning and quick prototypes (based on a Traversy Media starter).
-- Tech: HTML, SCSS
-- Repo: https://github.com/alaminyusuf/Mordern-portfolio
-
-### GraphQL API — graphql-api
-- Description: An Express/Node GraphQL API with example client/server scripts. Includes instructions to run client and server via yarn scripts.
-- Tech: Node.js, TypeScript, GraphQL
-- Repo: https://github.com/alaminyusuf/graphql-api
-
-### Trends API — trends-api
-- Description: API project written in TypeScript for exploring trends data (see repo for routes and usage).
-- Tech: TypeScript, Node.js
-- Repo: https://github.com/alaminyusuf/trends-api
-
-### Portfolio (static scaffold) — portfolio
-- Description: This repo contains a starter portfolio site (Gatsby starter present). I've added a simple static scaffold (index.html) to help quickly deploy a minimal portfolio.
-- Tech: Gatsby / static HTML
-- Repo: https://github.com/alaminyusuf/portfolio
+### WBCA MERN — https://github.com/alaminyusuf/wbca-mern
+- Description: A MERN-stack (MongoDB, Express, React, Node) web application showcasing full-stack features such as authentication, CRUD operations, and production-ready build/deploy configurations.
+- Tech: JavaScript, React, Node.js, MongoDB
+- Repo: https://github.com/alaminyusuf/wbca-mern
 
 ---
 
