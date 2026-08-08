@@ -22,7 +22,6 @@ If you'd like to work together or see my projects, check the sections below or v
 - Databases: PostgreSQL, MongoDB, Redis
 - DevOps & Tools: Docker, Git, GitHub Actions, Nginx, AWS (EC2, S3), Vercel
 - Testing: Jest, React Testing Library, Supertest
-- Other: Web Accessibility (a11y), Performance Optimization, Progressive Web Apps
 
 ---
 
@@ -49,8 +48,7 @@ Here are three of my top pinned repositories — click the repo titles to view s
 
 ## Contributions & Work
 
-I welcome contributions—open an issue or a pull request on any project. If you'd like to hire me or collaborate, please reach out via GitHub or email (add your email below).
-
+I welcome contributions—open an issue or a pull request on any project. If you'd like to hire me or collaborate, please reach out via GitHub or email.
 ---
 
 ## Contact
@@ -59,4 +57,3 @@ I welcome contributions—open an issue or a pull request on any project. If you
 - Email: alaminyusuf131@gmail.com  <!-- Replace with your preferred contact email -->
 
 ---
- provide your preferred contact email.
